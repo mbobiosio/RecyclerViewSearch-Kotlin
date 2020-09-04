@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">RxJavaSearchKotlin</string>
+    <string name="app_name">RecyclerviewSearch-Kotlin</string>
     <string name="search">Search</string>
 </resources>
